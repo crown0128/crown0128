@@ -1,36 +1,32 @@
-- 👋 Hi, I’m @crown0128
-- 📫 How to reach me happycrown0128@gmail.com
- 
- 
-<h2> 🚀 Some Tools I Have Used and Learnedh2>
+<h2> 🚀 Some Tools I Have Used and Learned </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-p>
+</p>
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-div>
+<div>
 <div id="badges">
  <a href="your-linkedin-URL">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- a>
+ </a>
  <a href="your-youtube-URL">
  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
- a>
+ </a>
  <a href="your-twitter-URL">
  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
- a>
-div>
+ </a>
+</div>
 <h1>
  hey there
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-h1>
+</h1>
 <div align="center">
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-div>
+</div>
  
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Ukraine.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
  
