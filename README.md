@@ -53,6 +53,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   
 ### :fire: My Stats :
+<img height="180em" src="https://github-readme-stats-faao-cq7jifk37-mr-fullstack.vercel.app/api/top-langs/?username=Mr-fullstack&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats-faao-cq7jifk37-mr-fullstack.vercel.app/api?username=Mr-fullstack&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
